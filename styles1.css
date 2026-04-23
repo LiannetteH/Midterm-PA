@@ -69,6 +69,13 @@ tfoot {
   text-align: center;
   font-style: italic;
   border-top: 2px solid #ccc;
+
+  td {
+    text-align: center;
+  }
 }
 
+footer {
+  text-align: center;
+}
 
