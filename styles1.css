@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+/* Page Styling */
 body {
   margin: 0;
   padding: 0;
@@ -11,6 +12,7 @@ body {
   }
 }
 
+/* Main Layout */
 main {
   max-width: 960px;
   margin: 0 auto;
@@ -20,6 +22,7 @@ main {
   }
 }
 
+/* Sections */
 section {
   padding: 20px;
   background-color: white;
@@ -27,6 +30,7 @@ section {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+/* Navigation */
 nav ul {
   display: flex;
   justify-content: center;
@@ -49,6 +53,7 @@ nav ul li a:hover {
   background-color: #555;
 }
 
+/* Table */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -75,6 +80,7 @@ tfoot {
   }
 }
 
+/* Footer */
 footer {
   text-align: center;
 }
